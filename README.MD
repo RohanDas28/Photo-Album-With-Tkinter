@@ -1,6 +1,5 @@
-## Tkinter Photo Album
----
-## Created By:
-### Rohan Das | Passionate Coder With Imagination 
----
-## Visit <a href="https://rohandas28.github.io" target="_blank">rohandas28.github.io</a> to know more.
+# Tkinter Photo Album by Rohan
+This app Is Made Using Python 3.7 & Tkinter Module.
+
+* Checkout my website [here](https://rohandas28.github.io/)
+* Follow Me On Instagram at [RohanDasYT](https://www.instagram.com/RohanDasYT)
